@@ -39,4 +39,4 @@ Github and Azure DevOps similarities/differences in a nutshell
 * Github action workflow add export to text file Linux and Windows
 * Github action workflow add upload artifact
 * Github action workflow add dependency build->release
-*Github action workflow add pre-release
+* Github action workflow add pre-release
