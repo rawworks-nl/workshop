@@ -3,8 +3,21 @@
 ## Presentation:
 
 Why Github? (store scripts and such in a place where you can keep history)
-Explaining what Github is and what you can do with it in a nutshell
-* Code
+
+What is Github?
+  * Explaining what Github is and what you can do with it in a nutshell
+  
+How it works
+  * Text based on [markdown language](https://www.markdownguide.org/cheat-sheet/)
+  * Create code locally
+  * Commit locally
+  * Pull from GitHub.com
+  * Push to GitHub.com
+  * Collaborate
+
+* Repository
+  * Private
+  * Public
 * Issues
 * PR
 * Actions
@@ -28,7 +41,6 @@ Github and Azure DevOps similarities/differences in a nutshell
 ## Hands-on:
 
 * Creating new repository private
-* Private vs public
 * Create README.MD with title
 * Customize README.MD to sub-title
 * Customize README.MD add index to sub-title
