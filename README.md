@@ -27,7 +27,7 @@ __Overall, GitHub is a valuable tool for people who want to collaborate on code,
 
 ---
 
-# What is `Github`?
+# What is Github?
 
 * Git is a version control software. You can use to maintain change history while you keep changing your code. Also it is helpful if more people are involved in the same project.
 
